@@ -6,3 +6,5 @@ This is a practical lession.
 This is important to learn.
 
 I'm now wriitng from my local computer.
+
+Another remote change
